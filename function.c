@@ -2,5 +2,5 @@
 
 void test_function()
 {
-	printf("Hello New World!\n");
+	printf("Hello World!\n");
 }
